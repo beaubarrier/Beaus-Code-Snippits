@@ -1,3 +1,3 @@
 # Beaus-Code-Snippits
 
-A list of code snippits for personal use.
+A list of collected code snippits for personal use.
