@@ -1,4 +1,4 @@
 function noSpace(x) {
   return x.replace(/\s/g, "");
 }
-// This will remove all spaces
+// This will remove all spaces from a string.

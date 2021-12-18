@@ -8,3 +8,5 @@ function order(words) {
     })
     .join(" ");
 }
+
+//Example: "2is 4test th1s 3a" => "th1s 2is 3a 4test"
